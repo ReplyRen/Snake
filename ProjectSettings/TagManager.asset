@@ -9,6 +9,11 @@ TagManager:
   - Boom
   - Mushroom
   - Env
+  - Wall
+  - Cover
+  - CoverGrass
+  - Key
+  - Lock
   layers:
   - Default
   - TransparentFX

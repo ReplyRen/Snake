@@ -61,8 +61,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
-    <Compile Include="Assets\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\GAME1-2\GameManager.cs" />
+    <Compile Include="Assets\Scripts\GAME1-2\Player.cs" />
+    <Compile Include="Assets\Scripts\Game3-4\BackgroundFollow.cs" />
+    <Compile Include="Assets\Scripts\Game3-4\Player34.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>E:/MyUnity/Snake/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
